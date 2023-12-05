@@ -1,3 +1,3 @@
-;(function (window) {
+$(function () {
     alert(123);
-})(window);
+});
